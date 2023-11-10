@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "npmrc": "registry=https://artifactory.sbops.com/artifactory/api/npm/sbmain-npm-dev/",
+  "npmrcMerge": true
+}
